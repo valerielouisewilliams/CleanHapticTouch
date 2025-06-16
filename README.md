@@ -8,7 +8,7 @@ Taps, LongPresses
 All impact weights, success, warning, error
 
 ## How to use:
-Simply attach .haptic(.[touch-type](parameters)) to the view (like a button, text, etc) you want to attach 
+Simply attach .haptic(.[touch_type](parameters)) to the view (like a button, text, etc) you want to attach 
 the haptic too. You can chain multiple .haptic(_) calls onto one view so that you can have different haptic feedback styles for taps/long presses/etc. 
 
 ## Example code: 
